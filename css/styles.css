@@ -24,6 +24,7 @@ nav {
 
 .img{
   float: left;
+
 }
 ul{
 
@@ -45,12 +46,13 @@ ul li{
     color: white;
     text-decoration: none;
     overflow: auto;
-
+    font-size: 20px;
 
   }
 
   ul li a:hover{
     color: red;
+    font-size: 25px;
   }
 
   * {box-sizing: border-box}
@@ -121,7 +123,7 @@ img {vertical-align: middle;}
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 0.6s ease;
+  transition: color 0.6s ease;
 }
 
 .active, .dot:hover {
@@ -152,11 +154,15 @@ img {vertical-align: middle;}
 }
 input {
   float: right;
-
+margin-top: 20px;
+width: 170px;
+height: 25px;
+margin-right: 10px;
 }
 
 
 button {
   float: right;
-
+margin-top: 20px;
+height: 25px;
 }
