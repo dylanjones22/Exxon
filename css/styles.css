@@ -213,8 +213,8 @@ background-color: white;
 .deli p {
   font-size: 70px;
   position: absolute;
-  float: left;
-  margin-left: 675px;
+
+  margin-left: 1200px;
   color: black;
 
 }
@@ -225,4 +225,27 @@ background-color: white;
   float: right;
   margin-right: 100px;
 
+}
+
+
+
+
+.snacks img {
+  position: sticky;
+  margin-top: 100px;
+  float: right;
+  margin-right: 100px;
+
+}
+.snacks p {
+  font-size: 70px;
+  position: absolute;
+
+  margin-left: 450px;
+  color: black;
+
+}
+.fuels p {
+  font-size: 50px;
+  margin-right: 1200px;
 }
