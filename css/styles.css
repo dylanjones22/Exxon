@@ -2,6 +2,7 @@
 *{
   margin: auto;
   padding: 0;
+  color: black;
 }
 
 body {
@@ -245,7 +246,18 @@ background-color: white;
   color: black;
 
 }
-.fuels p {
-  font-size: 50px;
+.Gasoline p {
+  font-size: 70px;
   margin-right: 1200px;
+  color: red;
+  position: sticky;
+}
+p {
+  margin-right: 900px;
+}
+
+.gas{
+  margin-left: 500px;
+  float: right;
+  
 }
