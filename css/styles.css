@@ -246,40 +246,53 @@ background-color: white;
   color: black;
 
 }
+
+
 .Gasoline p {
   font-size: 70px;
-  margin-right: 1200px;
+
   color: red;
   position: sticky;
   margin-top: 350px;
 }
 
-
-
 .img-gas {
-  margin-left: 1200px;
-  margin-bottom: 1000px;
+  align-content: center;
   position: relative;
-  bottom: 530px;
-  right: 1000px;
-
-
-
+  bottom: 450px;
+  right: 100px;
+  left: 200px;
 }
 
-.gas-p {
-  margin-right: 1000px;
-  margin-top: 20px;
 
-}
 
 .Diesel p {
   font-size: 70px;
   color: red;
   position: relative;
-  bottom: 1300px;
+  bottom: 350px;
+
+
+}
+
+.diesel-word {
+  position: relative;
+  bottom: 350px;
 }
 
 .snacklist {
   margin-top: 2000px;
+}
+
+.Ethanol p {
+  font-size: 70px;
+  color: red;
+  position: relative;
+  bottom: 350px;
+
+}
+
+.Ethanol-word {
+  position: relative;
+  bottom: 350px;
 }
