@@ -252,14 +252,19 @@ background-color: white;
   font-size: 70px;
 
   color: red;
-  position: sticky;
   margin-top: 350px;
+  position: relative;
+
+}
+
+.gas-p {
+  font-size: 22.5px;
 }
 
 .img-gas {
   align-content: center;
   position: relative;
-  bottom: 450px;
+  bottom: 467px;
   right: 100px;
   left: 200px;
 }
@@ -270,29 +275,42 @@ background-color: white;
   font-size: 70px;
   color: red;
   position: relative;
-  bottom: 350px;
+  bottom: 320px;
 
 
 }
 
 .diesel-word {
   position: relative;
-  bottom: 350px;
+  bottom: 320px;
+  font-size: 22.5px;
 }
 
-.snacklist {
-  margin-top: 2000px;
+table, tr, td {
+  border: 2px solid black;
+
+
+
+}
+
+.snackslist {
+  position: relative;
+  right: 367px;
+
+
 }
 
 .Ethanol p {
   font-size: 70px;
   color: red;
   position: relative;
-  bottom: 350px;
+  bottom: 300px;
 
 }
 
 .Ethanol-word {
   position: relative;
-  bottom: 350px;
+  bottom: 300px;
+  font-size: 22.5px;
+
 }
