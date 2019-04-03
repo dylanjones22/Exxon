@@ -4,6 +4,7 @@
   padding: 0;
   color: black;
 
+
 }
 
 body {
@@ -301,14 +302,15 @@ table, tr, td {
 .snackslist {
   position: relative;
   right: 367px;
+  top: 10px;
 
 
 }
 
-.snackslist-2 {
-  position: relative;
-  right: 50px;
-  bottom: 500px;
+.snacklist-2 {
+position: relative;
+
+bottom: 129.5px;
 }
 
 .Ethanol p {
@@ -330,8 +332,8 @@ table, tr, td {
 .drinks-p{
   font-size: 100px;
 position: relative;
-left: 800px;
-  margin-top: 10px;
+left: 400px;
+
 }
 
 .drinks-list{
@@ -339,7 +341,23 @@ left: 800px;
   width: 200px;
 background-color: white;
   font-size: 20px;
-overflow: visible;
+position: relative;
+right: 500px;
+
+
+}
+
+.drinks-img {
+  position: relative;
+  bottom: 450px;
+  left: 600px;
+}
+
+.drinks-page {
+  overflow-x: hidden;
+
+
+
 }
 
 ol li {
@@ -352,6 +370,7 @@ ol li {
   position: relative;
   left: 700px;
   margin-top: 10px;
+
 }
 .home-products-list{
   position: relative;
@@ -362,12 +381,11 @@ ol li {
 }
 
 
-.drinks-img {
-  position: relative;
-  bottom: 500px;
-  left: 100px;
-  
-}
+
+
+
+
+
 
 input[type=text], select, textarea {
   width: 100%;
