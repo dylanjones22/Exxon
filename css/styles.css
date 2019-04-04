@@ -330,9 +330,9 @@ bottom: 129.5px;
 
 
 .drinks-p{
-  font-size: 100px;
+  font-size: 70px;
 position: relative;
-left: 400px;
+left: 300px;
 
 }
 
@@ -342,22 +342,31 @@ left: 400px;
 background-color: white;
   font-size: 20px;
 position: relative;
-right: 500px;
-
+right: 700px;
+top: 20px;
 
 }
 
 .drinks-img {
   position: relative;
   bottom: 450px;
-  left: 600px;
+  left: 400px;
 }
 
 .drinks-page {
   overflow-x: hidden;
+}
 
-
-
+.Alcohol p{
+  font-size: 70px;
+position: relative;
+left: 500px;
+bottom: 943px;
+}
+.Alcohol-img {
+  position: relative;
+  bottom: 930px;
+  left: 850px;
 }
 
 ol li {
@@ -368,24 +377,24 @@ ol li {
 .home-products{
   font-size: 80px;
   position: relative;
-  left: 700px;
+
   margin-top: 10px;
 
 }
+.home-products p {
+  margin-left: 700px;
+}
 .home-products-list{
   position: relative;
-  right:600px;
+
   font-size: 25px;
   overflow: visible;
 
 }
 
-
-
-
-
-
-
+.img_home-products {
+  margin-left: 550px;
+}
 
 input[type=text], select, textarea {
   width: 100%;
@@ -419,4 +428,10 @@ input[type=submit]:hover {
 
 h3{
   font-size: 55px;
+}
+
+.deli-list{
+margin-left: 950px;
+position: relative;
+bottom: 130px;
 }
