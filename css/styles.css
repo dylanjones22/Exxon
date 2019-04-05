@@ -16,7 +16,7 @@ body {
     background-size: cover;
     font-size: 18px;
     color: red;
-  }
+}
 
 .mySlides {
   display: none;
@@ -347,9 +347,19 @@ top: 20px;
 
 }
 
+.alcohol-list{
+  border: 3px solid #0000FF;
+  width: 200px;
+  background-color: white;
+  font-size: 20px;
+  margin-left: 1100px;
+  position: relative;
+bottom: 425px;
+}
+
 .drinks-img {
   position: relative;
-  bottom: 450px;
+  bottom: 925px;
   left: 400px;
 }
 
@@ -361,11 +371,11 @@ top: 20px;
   font-size: 70px;
 position: relative;
 left: 500px;
-bottom: 943px;
+bottom: 1000px;
 }
 .Alcohol-img {
   position: relative;
-  bottom: 930px;
+  bottom: 995px;
   left: 850px;
 }
 
@@ -434,4 +444,10 @@ h3{
 margin-left: 950px;
 position: relative;
 bottom: 130px;
+}
+
+.footer-line{
+  position: relative;
+height: 3px;
+
 }
