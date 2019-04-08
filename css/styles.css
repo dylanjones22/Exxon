@@ -329,21 +329,9 @@ bottom: 129.5px;
 }
 
 
-.drinks-p{
-  font-size: 70px;
-position: relative;
-left: 300px;
 
-}
 
 .drinks-list{
-  border: 3px solid #0000FF;
-  width: 200px;
-background-color: white;
-  font-size: 20px;
-position: relative;
-right: 700px;
-top: 20px;
 
 }
 
@@ -354,34 +342,21 @@ top: 20px;
   font-size: 20px;
   margin-left: 1100px;
   position: relative;
-bottom: 425px;
+  bottom: 425px;
+  height: 20px;
 }
 
-.drinks-img {
-  position: relative;
-  bottom: 925px;
-  left: 400px;
-}
 
-.drinks-page {
-  overflow-x: hidden;
-}
 
-.Alcohol p{
-  font-size: 70px;
-position: relative;
-left: 500px;
-bottom: 1000px;
-}
-.Alcohol-img {
-  position: relative;
-  bottom: 995px;
-  left: 850px;
-}
+
+
+
+
 
 ol li {
   margin-left: 50px;
   overflow: visible;
+
 }
 
 .home-products{
@@ -444,10 +419,4 @@ h3{
 margin-left: 950px;
 position: relative;
 bottom: 130px;
-}
-
-.footer-line{
-  position: relative;
-height: 3px;
-
 }
