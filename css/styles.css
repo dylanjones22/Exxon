@@ -448,7 +448,7 @@ bottom: 130px;
 
 
   nav {
-    width: 100%;
+    width: 300%;
     height: 70px;
     background-color: blue;
 
@@ -624,22 +624,22 @@ bottom: 130px;
   }
 
   .footer img {
-    padding: 15px;
-    display: inline-block;
-    margin-left: 340px;
+
+
+
 
 
   }
   .footer p {
-    text-align: center;
     font-size: 35px;
     font-style: bold;
     color: navy;
-
+    position: relative;
+    left: 200px;
   }
 
   .deli p {
-    font-size: 70px;
+    font-size: 45px;
     position: absolute;
 
     margin-left: 1200px;
@@ -648,27 +648,29 @@ bottom: 130px;
   }
 
   .menu {
-    position: sticky;
-    margin-top: 100px;
-    float: right;
-    margin-right: 100px;
-
+    position: relative;
+    left: 100px;
+    top: 800px;
+    width: 90%;
+    height: 90%;
   }
 
 
 
 
   .snacks img {
-    position: sticky;
-    margin-top: 100px;
-    float: right;
-    margin-right: 100px;
+    position: relative;
+left: 100px;
+bottom: 300px;
+width: 90%;
+height: 90%;
+
 
   }
   .snacks p {
-    font-size: 70px;
-    position: absolute;
-
+    font-size: 45px;
+    position: relative;
+right: 200px;
     margin-left: 450px;
     color: black;
 
@@ -722,8 +724,10 @@ bottom: 130px;
 
   .snackslist {
     position: relative;
-    right: 367px;
-    top: 10px;
+    left: 20px;
+    bottom: 500px;
+
+
 
 
   }
