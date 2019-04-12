@@ -384,6 +384,7 @@ ol li {
 
 .img_home-products {
   margin-left: 550px;
+  heght
 }
 
 input[type=text], select, textarea {
@@ -640,17 +641,17 @@ bottom: 130px;
 
   .deli p {
     font-size: 45px;
-    position: absolute;
-
-    margin-left: 1200px;
+    position: relative;
+right: 700px;
+top: 450px;
     color: black;
 
   }
 
   .menu {
     position: relative;
-    left: 100px;
-    top: 800px;
+    left: 400px;
+    top: 350px;
     width: 90%;
     height: 90%;
   }
@@ -660,8 +661,8 @@ bottom: 130px;
 
   .snacks img {
     position: relative;
-left: 100px;
-bottom: 300px;
+left: 400px;
+bottom: 400px;
 width: 90%;
 height: 90%;
 
@@ -670,7 +671,8 @@ height: 90%;
   .snacks p {
     font-size: 45px;
     position: relative;
-right: 200px;
+left: 50px;
+bottom: 100px;
     margin-left: 450px;
     color: black;
 
@@ -693,9 +695,11 @@ right: 200px;
   .img-gas {
     align-content: center;
     position: relative;
-    bottom: 467px;
+    bottom: 600px;
     right: 100px;
     left: 200px;
+    width: 200%;
+    height: 200%;
   }
 
 
@@ -704,14 +708,14 @@ right: 200px;
     font-size: 70px;
     color: red;
     position: relative;
-    bottom: 320px;
+    bottom: 250px;
 
 
   }
 
   .diesel-word {
     position: relative;
-    bottom: 320px;
+    bottom: 250px;
     font-size: 22.5px;
   }
 
@@ -724,8 +728,8 @@ right: 200px;
 
   .snackslist {
     position: relative;
-    left: 20px;
-    bottom: 500px;
+    left: 350px;
+    bottom: 10px;
 
 
 
@@ -742,13 +746,13 @@ right: 200px;
     font-size: 70px;
     color: red;
     position: relative;
-    bottom: 300px;
+    bottom: 200px;
 
   }
 
   .Ethanol-word {
     position: relative;
-    bottom: 300px;
+    bottom: 230px;
     font-size: 22.5px;
 
   }
@@ -810,6 +814,8 @@ right: 200px;
 
   .img_home-products {
     margin-left: 550px;
+    width: 100%;
+    height: 90%;
   }
 
   input[type=text], select, textarea {
@@ -847,9 +853,23 @@ right: 200px;
   }
 
   .deli-list{
-  margin-left: 950px;
   position: relative;
-  bottom: 130px;
+  top: 10px;
+  right: 600px;
+  }
+
+  .footer img {
+    padding: 15px;
+    display: inline-block;
+    position: relative;
+    right: 300px;
+  }
+  .footer p {
+    text-align: center;
+    font-size: 35px;
+    font-style: bold;
+    color: navy;
+    margin-right: 500px;
   }
 
 
